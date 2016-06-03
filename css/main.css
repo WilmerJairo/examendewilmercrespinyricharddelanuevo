@@ -1,0 +1,54 @@
+/************************
+GENERAL
+************************/
+
+
+body{
+	background: #FFFF99 ;
+	max-width:100%;
+}
+
+h1{
+	font-family: 'Candal', sans-serif;
+	text-align: center;
+	margin: 25px 0;
+	font-size: 2em;
+	font-weight: 700;
+	line-height: 1.2em;
+	color: #ffdbaa;
+}
+
+/************************
+HEADING
+************************/
+header{
+	
+	margin: 0 0 30px 0;
+	padding: 5px 0 0 0;
+	width: 100%;
+	background: #0000FF ;
+	border-color: #553100;
+}
+
+footer{
+	
+	margin: 0 0 30px 0;
+	
+	padding: 5px 0 0 0;
+	width: 100%;
+	background: #33FF66 ;
+	border-color: #553100;
+}
+
+/************************
+DIV
+*******************/
+div{
+	font-family: 'Candal', sans-serif;
+	font-size: 1em;
+	font-weight: 400;
+	line-height: 1em;
+	color: #ffdbaa;
+	list-style: none;
+}
+
