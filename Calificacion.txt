@@ -1,0 +1,11 @@
+Detalle Calificacion   39/50
+Pagina de Servicios (5 Puntos): 3.5 Puntos. Pudo se mejor. Puso los servicios del puerto de manera muy breve.
+Pagina de Arribo de Buques con Arreglo de Objetos (10 Puntos): 10 Puntos. Funciona muy bien, muestra los buques con la carga, nombre y bandera. Justo como se solicito.
+Busqueda de buques en 3 criterios(carga, bandera, nombre) (15 Puntos): 7 Puntos. Solo implemento la busqueda por nombre, pero bien buscada.
+Galeria con JQuery (10 Puntos): 10 Puntos. Galeria bien implementada, solo falto la descripcion de las imagenes.
+Calidad de código (comentarios, código que ejecute, ausencia de errores, uso de git, estetica) (10 Puntos): 8.5. Excelentes comentarios. BUena calidad de codigo. Hay errores en la consola pero no afectan el funcionamiento del sitio.
+
+Comentarios Profesor:
+El mejor examen de mejoramiento de todos.
+Han cumplido con la mayoria de requisitos excepto la busqueda con filtro por campos.
+La calidad del codigo ha mejorado mucho. Felicitaciones!!!
